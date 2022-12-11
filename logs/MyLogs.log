@@ -1,0 +1,5 @@
+[TRACE] 2022-12-08 14:41:16.293 [main] log - this is trace msg
+[INFO ] 2022-12-08 14:41:16.298 [main] log - this is info msg
+[ERROR] 2022-12-08 14:41:16.299 [main] log - this is error msg
+[WARN ] 2022-12-08 14:41:16.299 [main] log - this is warning msg
+[FATAL] 2022-12-08 14:41:16.299 [main] log - this is fatal msg
